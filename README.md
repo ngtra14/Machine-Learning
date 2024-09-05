@@ -3,7 +3,7 @@ CSE6740_Computational_Data_Analysis / Machine Learning
 
 Includes all the homework problems and projects
 
-homework 1: Clustering report [Machine-Learning/HW1]
+homework 1: Clustering report [/HW1]
 1. Clustering (mathematical analysis and proofs)
 2. Image compression using clustering code
 3. Political blogs and spectral clustering code
